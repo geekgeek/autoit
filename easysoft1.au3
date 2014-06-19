@@ -1,8 +1,8 @@
 ;Sample with InputBox
 
-;Faste verider
+
 $enhetstekst = "stk"
-;Faste verider
+
 
 
 $varenr = InputBox("hello","enter varenr")
