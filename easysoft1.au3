@@ -1,8 +1,5 @@
 ;Sample with InputBox
-
-
 $enhetstekst = "stk"
-
 
 
 $varenr = InputBox("hello","enter varenr")
